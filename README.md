@@ -1,8 +1,9 @@
 ### Hi there 👋
-#### Basics
+#### Languages
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
+#### Markup, styles
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -17,9 +18,10 @@
 #### State management
 ![MobX](https://img.shields.io/static/v1?style=for-the-badge&message=MobX&color=222222&logo=MobX&logoColor=FF9955&label=)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Zustand](https://img.shields.io/badge/-Zustand-green?style=for-the-badge&logo=zustand&logoColor=white)
 ![Recoil](https://img.shields.io/badge/-Recoil-blue?style=for-the-badge&logo=zustand&logoColor=white)
+![SWR](https://img.shields.io/badge/-swr-black?style=for-the-badge&logo=zustand&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 #### Build tools
