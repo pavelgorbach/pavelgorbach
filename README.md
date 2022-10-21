@@ -18,6 +18,8 @@
 ![MobX](https://img.shields.io/static/v1?style=for-the-badge&message=MobX&color=222222&logo=MobX&logoColor=FF9955&label=)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Zustand](https://img.shields.io/badge/-Zustand-green?style=for-the-badge&logo=zustand&logoColor=white)
+![Recoil](https://img.shields.io/badge/-Recoil-blue?style=for-the-badge&logo=zustand&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 #### Build tools
@@ -38,6 +40,9 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 #### CI/CD
+![Expo Application Services](https://img.shields.io/badge/-Expo%20Application%20Services-black?style=for-the-badge&message=Expo&color=000020&logo=Expo&logoColor=FFFFFF&label=)
+![Visual Studio App Center](https://img.shields.io/badge/-Visual%20Studio%20App%20Center-red?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ![Bitrise](https://img.shields.io/static/v1?style=for-the-badge&message=Bitrise&color=683D87&logo=Bitrise&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -56,6 +61,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Tools
 ![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
