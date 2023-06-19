@@ -1,3 +1,6 @@
+# GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelgorbach&show_icons=true&theme=transparent)
+
 ### 👋
 
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
