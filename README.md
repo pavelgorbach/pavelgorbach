@@ -4,7 +4,7 @@
 # LeetCode Stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pavelgorbach)](https://github.com/KnlnKS/leetcode-stats)
 
-### 👋
+# Technologies and Tools
 
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
