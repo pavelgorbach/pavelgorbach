@@ -1,4 +1,4 @@
-I am results-driven Software Engineer specializing in JavaScript, TypeScript, Node.js, React, and React Native. I possess the ability to effectively analyze requirements, design robust architectures, and implement scalable and efficient solutions.
+Software Engineer specializing in JavaScript, TypeScript, Node.js, React, and React Native.
 
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelgorbach&show_icons=true&theme=transparent)
