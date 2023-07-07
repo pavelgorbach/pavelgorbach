@@ -6,6 +6,9 @@ Software Engineer specializing in JavaScript, TypeScript, Node.js, React, and Re
 # LeetCode Stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pavelgorbach)](https://github.com/KnlnKS/leetcode-stats)
 
+# Codewars Stats
+![Codewars](https://github.r2v.ch/codewars?user=pavelgorbach&stroke=COLOR)
+
 # Main Technologies and Tools
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" />
