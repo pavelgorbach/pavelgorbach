@@ -1,4 +1,4 @@
-Software Engineer specializing in JavaScript, TypeScript, Node.js, React, and React Native.
+Senior Software Engineer(Frontend) with 8+ years of experience in architecting, building, and delivering scalable web and mobile solutions in e-commerce, social media, e-learning, healthcare & fitness, automotive service, and telecom industries. Proficient in Backend(Node.js) and Cloud Services(AWS, GCP). I have experience as a Team/Tech Lead, including mentoring and interviewing engineers. I’m looking for a project which aligns with my skills and expertise, and where I can see the value I bring to the customers.
 
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelgorbach&show_icons=true&theme=transparent)
