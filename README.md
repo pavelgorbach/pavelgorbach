@@ -1,4 +1,4 @@
-Highly experienced React Native developer with a proven track record of designing, developing, and deploying successful mobile applications across various domains. Expertise in architecting complex projects, implementing cross-platform solutions, and ensuring seamless integration with iOS and Android platforms. Possesses strong communication skills and adept at collaborating with stakeholders and team members to deliver exceptional results.
+Highly experienced software engineer with a proven track record of designing, developing, and deploying successful web and mobile applications across various domains. Expertise in architecting complex projects, implementing cross-platform solutions, and ensuring seamless integration with iOS and Android platforms. Possesses strong communication skills and adept at collaborating with stakeholders and team members to deliver exceptional results.
 
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelgorbach&show_icons=true&theme=transparent)
