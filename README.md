@@ -1,4 +1,4 @@
-Highly experienced software engineer with a proven track record of designing, developing, and deploying successful web and mobile applications across various domains. Expertise in architecting complex projects, implementing cross-platform solutions, and ensuring seamless integration with iOS and Android platforms. Possesses strong communication skills and adept at collaborating with stakeholders and team members to deliver exceptional results.
+Software Engineer with a proven track record of designing, developing, and deploying successful web and mobile applications across various domains. Expertise in architecting complex projects and implementing cross-platform solutions. Capable of collaborating effectively with stakeholders and team members to achieve exceptional outcomes.
 
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelgorbach&show_icons=true&theme=transparent)
