@@ -1,4 +1,4 @@
-I am a Software Engineer with over 8 years of experience and a proven track record in developing efficient web and mobile applications across various domains. I primarily focus on the front end, with expertise in TypeScript, React, React Native, and Node.js. Capable of collaborating effectively with stakeholders and team members to achieve exceptional outcomes.
+I am a Software Engineer with over 8 years of experience and a proven track record in developing efficient web and mobile applications across various domains. I primarily focus on the front end, with expertise in JavaScript, TypeScript, React, React Native, and Node.js.
 
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelgorbach&show_icons=true&theme=transparent)
